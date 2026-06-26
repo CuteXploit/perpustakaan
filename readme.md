@@ -25,7 +25,7 @@
 
 <!-- 2. SCREENSHOT APLIKASI -->
 <p align="center">
-  <img src="https://via.placeholder.com/700x300/2d2d2d/ffffff?text=Silahkan+Upload+Screenshot+Aplikasi+Anda+Disini" alt="Screenshot Aplikasi" width="90%">
+  <img src="https://raw.githubusercontent.com/CuteXploit/perpustakaan/refs/heads/main/Screenshot%202026-06-26%20194436.png" alt="Screenshot Aplikasi" width="90%">
   <!-- GANTI: Upload screenshot aplikasi kamu ke repo, lalu ganti link di atas dengan link gambar tersebut -->
 </p>
 
