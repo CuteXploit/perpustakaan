@@ -32,13 +32,6 @@
 
 ---
 
-## 🗺️ Alur Program (Flowchart)
-
-<!-- 3. FLOWCHART -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CuteXploit/perpustakaan/refs/heads/main/deepseek_mermaid_20260626_8be893.png" alt="Flowchart Aplikasi Perpustakaan" width="80%">
-</p>
-
 *Berikut adalah alur program saat aplikasi dijalankan hingga menampilkan data buku.*
 
 ### 📝 Keterangan Flowchart:
