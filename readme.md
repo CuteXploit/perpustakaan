@@ -26,7 +26,6 @@
 <!-- 2. SCREENSHOT APLIKASI -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/CuteXploit/perpustakaan/refs/heads/main/Screenshot%202026-06-26%20194436.png" alt="Screenshot Aplikasi" width="90%">
-  <!-- GANTI: Upload screenshot aplikasi kamu ke repo, lalu ganti link di atas dengan link gambar tersebut -->
 </p>
 
 *Tampilan utama aplikasi yang menampilkan daftar buku beserta stoknya.*
@@ -37,16 +36,33 @@
 
 <!-- 3. FLOWCHART -->
 <p align="center">
-  <img src="https://via.placeholder.com/600x400/1a1a1a/ffffff?text=Silahkan+Upload+Gambar+Flowchart+Disini" alt="Flowchart Aplikasi" width="80%">
-  <!-- GANTI: Upload flowchart yang sudah kamu buat ke repo, lalu ganti link di atas -->
+  <img src="https://raw.githubusercontent.com/CuteXploit/perpustakaan/main/flowchart-aplikasi.png" alt="Flowchart Aplikasi Perpustakaan" width="80%">
 </p>
 
-*Berikut adalah alur sederhana ketika aplikasi dijalankan dan menampilkan data buku.*
+*Berikut adalah alur program saat aplikasi dijalankan hingga menampilkan data buku.*
+
+### 📝 Keterangan Flowchart:
+| Simbol | Keterangan |
+|---|---|
+| 🟢 **Mulai / Selesai** | Awal dan akhir dari program |
+| 🔵 **Proses** | Aktivitas yang dilakukan oleh aplikasi |
+| 🟡 **Percabangan (Decision)** | Keputusan apakah koneksi database berhasil atau tidak |
+| 🔴 **Error** | Menampilkan pesan jika database gagal terhubung |
 
 ---
 
-## 🚀 Cara Menjalankan
-1.  Pastikan kamu sudah menginstal **Java JDK** dan **NetBeans IDE**.
-2.  Clone repositori ini:
-    ```bash
-    git clone https://github.com/CuteXploit/perpustakaan.git
+## 🛠️ Panduan Instalasi & Menjalankan Aplikasi
+
+### 📋 Prasyarat
+Pastikan kamu sudah menginstal:
+- **Java JDK** (versi 8 atau lebih baru) - [Download](https://www.oracle.com/java/technologies/downloads/)
+- **Apache NetBeans IDE** - [Download](https://netbeans.apache.org/download/index.html)
+- **Database** (MySQL / SQLite sesuai konfigurasi)
+
+---
+
+### 📥 Langkah 1: Clone atau Download Repositori
+
+**Cara 1: Menggunakan Git**
+```bash
+git clone https://github.com/CuteXploit/perpustakaan.git
